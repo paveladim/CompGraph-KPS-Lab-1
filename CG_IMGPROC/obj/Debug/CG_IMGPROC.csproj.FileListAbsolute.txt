@@ -1,0 +1,10 @@
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\bin\Debug\CG_IMGPROC.exe.config
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\bin\Debug\CG_IMGPROC.exe
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\bin\Debug\CG_IMGPROC.pdb
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\obj\Debug\CG_IMGPROC.csprojAssemblyReference.cache
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\obj\Debug\CG_IMGPROC.Form1.resources
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\obj\Debug\CG_IMGPROC.Properties.Resources.resources
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\obj\Debug\CG_IMGPROC.csproj.GenerateResource.cache
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\obj\Debug\CG_IMGPROC.csproj.CoreCompileInputs.cache
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\obj\Debug\CG_IMGPROC.exe
+D:\materials\projects\CG_IMGPROC\CG_IMGPROC\obj\Debug\CG_IMGPROC.pdb
